@@ -1,5 +1,6 @@
-### こんにちは！yoheiです 👋  
-2020年4月からプログラミングを勉強しています  
+### About me
+Yoheiです👋  
+2020年4月からプログラミングの勉強を始めました！  
 最近はlaravelとvueを触っています  
 現在作成中のプログラムはphovueです↓  
 https://github.com/YoheiTakada-p/phovue  
