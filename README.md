@@ -1,7 +1,6 @@
 ### About me
 Yoheiです👋  
 2020年4月からプログラミングの勉強を始めました！  
-今まで触った技術はjava,javascript,php,mysql,docker,awsです  
 最近はlaravelとvueを触っています  
 現在作成中のプログラムはphovueです↓  
 https://github.com/YoheiTakada-p/phovue  
