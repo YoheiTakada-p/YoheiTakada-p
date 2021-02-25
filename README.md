@@ -1,10 +1,6 @@
 ### About me
-Yoheiです👋  
 2020年4月からプログラミングの勉強を始めました！  
-最近はlaravelとvueを触っています  
-現在作成中のプログラムはphovueです↓  
-https://github.com/YoheiTakada-p/phovue  
-
+最近はlaravelとvueを触っています
 <!--
 **YoheiTakada-p/YoheiTakada-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
