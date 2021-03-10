@@ -2,10 +2,10 @@
 2020年4月からプログラミングの勉強を始めました！  
 最近はlaravelとvueを触っています。
 
-主な作成物です。
-phovue　写真投稿サイトです。
-https://github.com/YoheiTakada-p/phovue
-大喜利SNS「OGY」 大喜利投稿サイトです。
+主な作成物です。  
+phovue　写真投稿サイトです。  
+https://github.com/YoheiTakada-p/phovue  
+大喜利SNS「OGY」 大喜利投稿サイトです。  
 https://github.com/YoheiTakada-p/Java/tree/master/OGY
 <!--
 **YoheiTakada-p/YoheiTakada-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
