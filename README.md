@@ -1,7 +1,6 @@
 ### About me
-2020年4月からプログラミングの勉強を始めました！  
-
-主な作成物です。  
+2020年4月からプログラミング始めました。
+  
 phovue　写真投稿サイトです。  
 https://github.com/YoheiTakada-p/phovue  
 大喜利SNS「OGY」 大喜利投稿サイトです。  
