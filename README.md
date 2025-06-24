@@ -1,10 +1,5 @@
 ### About me
 2020年4月からプログラミング始めました。
-  
-phovue　写真投稿サイトです。  
-https://github.com/YoheiTakada-p/phovue  
-大喜利SNS「OGY」 大喜利投稿サイトです。  
-https://github.com/YoheiTakada-p/Java/tree/master/OGY
 <!--
 **YoheiTakada-p/YoheiTakada-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
