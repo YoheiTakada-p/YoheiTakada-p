@@ -1,5 +1,5 @@
 ### About me
-2020年4月からプログラミング始めました。
+2020年4月から。
 <!--
 **YoheiTakada-p/YoheiTakada-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
