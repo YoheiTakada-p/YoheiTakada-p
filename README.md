@@ -1,6 +1,5 @@
 ### About me
-2020年4月から。
-もはや黒歴史。
+2020年4月から。黒歴史。
 <!--
 **YoheiTakada-p/YoheiTakada-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
